@@ -1,0 +1,10 @@
+.cover-pic-img-prop {
+  height: 150px;
+}
+
+.book-item-container {
+  width: 300px;
+  display: flex;
+  margin-bottom: 20px;
+  cursor: pointer;
+}

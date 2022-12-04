@@ -1,0 +1,86 @@
+* {
+  text-decoration: none;
+}
+
+.loader-container {
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-container {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  color: aliceblue;
+  background-color: aliceblue;
+}
+
+.home-content {
+  width: 80vw;
+  margin-left: 10vw;
+  color: black;
+}
+
+.carousel-container {
+  background-color: white;
+  margin-top: 20px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.unordered-list {
+  list-style: none;
+  padding: 0;
+}
+
+.top-rated-books-container {
+  display: flex;
+}
+
+.top-rated-book-item-container {
+  text-align: center;
+  margin: 5vw;
+}
+
+.top-rated-book-img-prop {
+  height: 200px;
+  /* width: 400px; */
+}
+
+.top-rated-section-overall-container {
+  /* display: flex;
+  flex-direction: row;
+  align-items: center; */
+}
+
+.react-icon-img-prop {
+  align-self: center;
+}
+
+.contact-us-container {
+  padding: 0;
+  text-align: center;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-us-icon-img-prop {
+  height: 20px;
+  margin: 10px;
+}
+
+.failure-img-prop {
+  height: 200px;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 20px 0 20px 0;
+}

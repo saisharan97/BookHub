@@ -1,0 +1,12 @@
+.cover-pic-img-prop1 {
+  height: 200px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.book-item-container1 {
+  display: flex;
+  margin-bottom: 20px;
+  cursor: pointer;
+  justify-content: center;
+}
